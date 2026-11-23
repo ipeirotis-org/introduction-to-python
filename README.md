@@ -17,11 +17,6 @@ This is a set of notes used for teaching Python to students that have never used
 
 * [Videos for the class](https://www.youtube.com/playlist?list=PLqAPn_b_yx0TBDqe5-AMSed6sYzMj9qkN)
 
-## Exercises for `nbgrader` (for Educators)
-
-* If you would like to get access to the autograded assignments that we have developed, please contact me at `panos@stern.nyu.edu`.
-
-
 ## Recommended Books
 
 * [Python for Everybody: Exploring Data In Python 3](https://www.py4e.com/book): This is a textbook for students that are learning Python as their first programming language, with the objective of using programming to handle and analyze data. 
@@ -31,10 +26,11 @@ This is a set of notes used for teaching Python to students that have never used
 ## Additional Books for Learning Python
 
 * [How To Think Like a Computer Scientist](https://runestone.academy/ns/books/published/thinkcspy/index.html): An interactive guide to programming and Python. The book "Python for Everybody" (listed above) is partially based on this book.
-* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/): An introduction to programming and Python. It targets complete beginners. It used a drill-based approach for teaching, which can be tedious at times. Nevertheless, it is considered one of the standard textbooks for learning Python.
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/): An introduction to programming and Python. It targets complete beginners. It uses a drill-based approach for teaching, which can be tedious at times. Nevertheless, it is considered one of the standard textbooks for learning Python.
 
 ## Online Classes
 
+* [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
 * The following Coursera courses [Getting Started with Python](https://www.coursera.org/learn/python), [Python Data Structures](https://www.coursera.org/learn/python-data), [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data), [Using Databases with Python](https://www.coursera.org/learn/python-databases), [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-capstone) are well-alinged with the objectives of our class. 
 * [Code Academy, Python class](https://www.codecademy.com/learn/python): This is a useful interactive tutorial for beginners, who are trying to understand programming in general, and Python in particular
 * [Google’s Python class](https://developers.google.com/edu/python/)

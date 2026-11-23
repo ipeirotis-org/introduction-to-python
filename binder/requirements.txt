@@ -16,3 +16,4 @@ black
 # To remove the output from the notebooks
 nbstripout
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
